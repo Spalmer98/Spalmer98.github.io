@@ -1,89 +1,109 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Spencer Palmer's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Spencer Palmer
+Subcontractor, Software Engineer Student.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://www.linkedin.com/in/spencer-palmer98/">Spencer Palmer - LinkedIn</a>
+| <a href="https://github.com/Spalmer98">My Github page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+A Senior at BrighamYoung University-Idaho, pursuing a bachelor’s degree in software engineering emphasizing in software design.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Software design, Python, C#, 
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Retail POS systems, other coding languages, changing the perspective of technicogical careers.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`January 2024 - Present`
+__BrighamYoung University-Idaho, Rexburg__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Junior, Senior
 
-- Sizar
+`2022-2023`
+__Purdue Global University, Online.__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Sophmore
 
-- Fellow
+`January 2020 - July 2020`
+__BrighamYoung University-Idaho, Rexburg__
+
+- Freshman
+
+`September 2012 - June 1, 2016`
+__Idaho Falls Senior High School, Idaho Falls__
 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2016`
+Advanced Technological Honor Cord, *Idaho Falls Senior High School*, Idaho Falls, Idaho
 
-Associate, *French Academy of Science*, Paris, France
+`2016`
+Leadership, Academic Excellence, and Service Honor Cord, *Technology Student Association*, Idaho, USA
 
 
+## Cetifications
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`September 2021 - Present` Forklift Operator Certification
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`July 2025 - Present`
+__SoundFX__, Idaho Falls, Idaho
 
-- Warden
-- Minted coins
+- Subcontractor
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`August 2024 - September 2024`
+__Redstone Residential__, Rexburg, Idaho
 
+- Temporary Maintenance Worker
+
+`2023 - 2024`
+__Big 5 Sporting Goods__, Ammon, Idaho
+
+- Assistant Manager
+
+`May 2022 - November 2022`
+__Baker's Dozen__, Idaho Falls, Idaho
+
+- Baker's Assistant
+
+`2021 - 2022`
+__Flood and Fire Solutions__, Idaho Falls, Idaho
+
+- Restoration Technician
+
+`2020 - 2021`
+__Big Deal Outlet__, Idaho Falls, Idaho
+
+- Front Store Manager
+
+`2018 - 2019`
+__Golden Valley Natural__, Shelly, Idaho
+
+- Forklift Operator
+
+`2016 - 2018`
+__Johnson's Discount Foods__, Idaho Falls, Idaho
+
+- Shift Supervisor
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2025 -->
